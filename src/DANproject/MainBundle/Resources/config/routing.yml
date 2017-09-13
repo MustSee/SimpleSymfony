@@ -1,0 +1,3 @@
+da_nproject_main_homepage:
+    path:     /
+    defaults: { _controller: DANprojectMainBundle:Default:index }

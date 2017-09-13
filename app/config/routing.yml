@@ -1,0 +1,4 @@
+da_nproject_main:
+    resource: "@DANprojectMainBundle/Resources/config/routing.yml"
+    prefix:   /
+

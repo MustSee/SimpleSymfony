@@ -1,0 +1,4 @@
+services:
+#    da_nproject_main.example:
+#        class: DANproject\MainBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
